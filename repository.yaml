@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: DDr-schobi fork of dm82m Home Assistant add-on repository
+name: Dr-schobi fork of dm82m Home Assistant add-on repository
 url: 'https://github.com/Dr-schobi/hassio-addons/'
 maintainer: Dr-schobi <schobi@mailtonne.de>
