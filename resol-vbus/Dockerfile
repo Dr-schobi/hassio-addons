@@ -8,7 +8,7 @@ RUN apt-get -y install \
   nodejs
 
 WORKDIR /bin
-RUN git clone https://github.com/danielwippermann/resol-vbus.git
+RUN git clone http://github.com/Dr-schobi/resol-vbus.git 
 WORKDIR /bin/resol-vbus
 RUN npm install
 WORKDIR /bin/resol-vbus/examples/json-live-data-server
